@@ -1,0 +1,118 @@
+/* Full website baground color */
+.bgg
+{
+    background-color: #ecf3f9;
+}
+
+.color-b
+{
+    background-color: beige;
+}
+
+/* Warning */
+.error
+{
+    color: red;
+}
+
+.color-w
+{
+    background-color:white;
+}
+
+.logout
+{
+    border-radius: 25px;
+    background-color:#ffcccb;
+}
+
+.login
+{
+    border-radius: 25px;
+    background-color: #90ee90;
+    
+}
+/* center align text */
+.text-center
+{
+    text-align: center;
+}
+
+/* Center align block */
+.wc
+{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+/* border bottom */
+.bb
+{
+    border-bottom: 1px solid black;
+}
+
+/* border bottom */
+.bt
+{
+    border-top: 1px solid black;
+}
+
+/* border */
+.wb
+{
+    
+    border:1px solid black;
+    border-radius: 25px;
+    width: 90%;
+    margin: 0 auto;
+}
+/* Colorless border */
+.wbn
+{
+    
+    width: 75%;
+    margin: 0 auto;
+}
+/* Form */
+.wbf
+{
+    
+    border:1px solid black;
+    border-radius: 25px;
+    width: 75%;
+    margin: 0 auto;
+}
+
+/* navigation border */
+.bwb
+{
+    border:1px solid black;
+    border-radius: 50px;
+    width: 75%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+/* Padding */
+.wp
+{
+    padding: 15px;
+}
+
+/* Display inline */
+.di
+{
+    display: inline;
+}
+
+/* footer */
+.footer-self {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    color: white;
+    text-align: center;
+  }
